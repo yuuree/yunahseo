@@ -1,0 +1,13 @@
+st_id='31025'
+gn=st_id[0]:학년,
+cn=st_id[1:2]:반,
+sn=st_id[3:]:번호
+
+print(f"{gn}학년{cn}반{sn}번호")
+
+
+
+
+
+
+
