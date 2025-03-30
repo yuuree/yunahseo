@@ -138,14 +138,13 @@
 # print(email[:email.find("@")])
 
 
- student_id="31025"
- grade=student_id[0:1]
- clss_number=student_id[1:2]
- student_number=student_id[3:4]
-
- print(f"{grade}"학년""{clss_number}"반",{student_number}"번호")
-
-
+# student_id="31025"
+# grade=student_id[0:1]
+# clss_number=student_id[1:2]
+# student_number=student_id[3:4]
+#
+# print(f"{grade}"학년""{clss_number}"반",{student_number}"번호")
+#
 
 
 
